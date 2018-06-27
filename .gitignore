@@ -12,6 +12,8 @@
 *.pdb
 *.exe
 *.dll
+*.xml
+*.cache
 
 # Folders
 /.vs/*
