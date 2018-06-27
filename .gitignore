@@ -1,0 +1,23 @@
+# File types to ignore
+*.suo
+*.user
+*.dbg
+*.isr
+*.obs
+*.pubxml
+*.orig
+*.rxlog
+*.rxlog.data
+*.stackdump
+*.pdb
+*.exe
+*.dll
+
+# Folders
+/.vs/*
+/TestResults/*
+
+# Files
+
+# Packages
+/packages/*
